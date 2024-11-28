@@ -6,7 +6,7 @@
 I'm Jinit, an AI/ML developer specializing in Natural Language Processing (NLP). I've developed several projects in recommendation and prediction, and currently, I'm focusing on Generative AI.
   </div>
   <div>
-    ![](https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif)
+    
   </div>
 </div>
 
