@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinit Vyas</h1>
-![Image title]([https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif){ .image25percent }
+<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gifhttps://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 <h3 align="center">A passionate AI/ML and Data Science enthusiast with a focus on NLP</h3>
 <div style="display:flex;">
   <div>
