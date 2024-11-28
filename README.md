@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jinit Vyas</h1>
-<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gifhttps://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 <h3 align="center">A passionate AI/ML and Data Science enthusiast with a focus on NLP</h3>
 <div style="display:flex;">
   <div>
@@ -7,6 +6,7 @@
 I'm Jinit, an AI/ML developer specializing in Natural Language Processing (NLP). I've developed several projects in recommendation and prediction, and currently, I'm focusing on Generative AI.
   </div>
   <div>
+<img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gifhttps://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
     
   </div>
 </div>
