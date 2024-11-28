@@ -8,6 +8,6 @@ I'm Jinit, an AI/ML developer specializing in Natural Language Processing (NLP).
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,angular,docker,c,cpp,css,django,express,mongodb,node,flask,firebase,js,notion,mysql,npm,php,postman,sklearn,sqlite,ts,unity,visualstudio,vscode,webflow" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,angular,docker,c,cpp,css,django,express,mongodb,nodejs,flask,firebase,js,notion,mysql,npm,php,postman,sklearn,sqlite,ts,unity,visualstudio,vscode,webflow" />
   </a>
 </p>
