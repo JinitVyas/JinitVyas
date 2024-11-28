@@ -14,8 +14,7 @@
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently exploring **Generative AI** and advanced NLP techniques.
-- 💼 Check out my projects on [GitHub](https://github.com/your-username).
-- 📫 Reach me with [Gmail](mailto:jinitvyas@gmail.com).
+- 💼 Check out my projects on [GitHub](https://github.com/jinitvyas).
 
 ---
 
