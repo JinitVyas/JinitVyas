@@ -5,3 +5,9 @@ I'm Jinit, an AI/ML developer specializing in Natural Language Processing (NLP).
 
 ![JinitVyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinitvyas&hide=contribs,prs) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinitvyas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinitvyas&theme=tokyonight" alt="mystreak"/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,github,angular,docker,c,cpp,css,django,express,mongodb,node,flask,firebase,js,notion,mysql,npm,php,postman,sklearn,sqlite,ts,unity,visualstudio,vscode,webflow" />
+  </a>
+</p>
