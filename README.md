@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinit Vyas</h1>
+![Image title](https://dummyimage.com/600x400/eee/aaa){ .image25percent }
 <h3 align="center">A passionate AI/ML and Data Science enthusiast with a focus on NLP</h3>
 <div style="display:flex;">
   <div>
